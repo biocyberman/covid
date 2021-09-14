@@ -4,7 +4,7 @@
 git add --all
 git commit -m "Updated website"
 git pull -Xours
-git push
+git push origin master
 
 ## Deploy the website to gh-pages
 cp -rf docs/. ../docs
