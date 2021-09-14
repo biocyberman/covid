@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 ## Get latest estimates
 Rscript utils/update_estimates.R
