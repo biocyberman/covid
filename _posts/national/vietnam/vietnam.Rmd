@@ -1,0 +1,82 @@
+---
+title: "National and Subnational estimates for Vietnam"
+description: |
+  Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in Vietnam. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.
+bibliography: library.bib
+output:
+  distill::distill_article:
+    self_contained: true
+    toc: true
+    toc_depth: 2
+categories:
+  - "Subnational estimates"
+  - "Asia"
+  - "Vietnam"
+---
+
+*Using data available up to the:* `r Sys.Date()`
+
+*Note that it takes time for infection to cause symptoms, to get tested for SARS-CoV-2 infection, for a positive test to return and ultimately to enter the case data presented here. In other words, today’s case data are only informative of new infections about two weeks ago. This is reflected in the plots below, which are by date of infection.*
+
+*Estimates are available to download [here](https://dataverse.harvard.edu/dataverse/covid-rt).*
+
+*See our see [Methods](https://epiforecasts.io/covid/methods) or our [paper](https://wellcomeopenresearch.org/articles/5-112/) for an explanation of how these estimates are derived.*
+
+```{r load-custom-data, include = FALSE}
+load(here::here("_posts/national/vietnam/vietnam_codes.rda"))
+```
+
+```{r load-geodata, include = FALSE}
+geoData <- rnaturalearth::ne_states('Vietnam', returnclass = 'sf') 
+geoData <- dplyr::left_join(geoData, vietnam_codes, by = c("iso_3166_2"="level_1_region_code")) %>%
+  dplyr::rename(Region = level_1_region)
+```
+
+```{r load-defaults, include = FALSE}
+region <- "Vietnam"
+folder <- "vietnam"
+source(here::here("utils/subnational_defaults.R"), local = TRUE)
+source(here::here("utils/epi_leaflet.R"), local = TRUE)
+subnational_unit <- "Region"
+```
+
+*Using data available up to the:* `r latest_date`
+
+*Subnational and national estimates are available to download [here](https://dataverse.harvard.edu/dataverse/covid-rt).*
+
+*See our see [Methods](https://epiforecasts.io/covid/methods) or our [paper](https://wellcomeopenresearch.org/articles/5-112/) for an explanation of how these estimates are derived.*
+
+## National summary
+
+```{r, include = FALSE}
+summary_tables <- 0
+summary_figures <- 0
+title_depth <- 3
+index <- 1
+region_path <- "covid-rt-estimates/national/cases/national"
+show_title <- FALSE
+report_forecast <- TRUE
+interactive <- TRUE
+standalone <- FALSE
+```
+
+```{r,  child = system.file("templates/_region-report.Rmd", package = "EpiNow2")}
+```
+
+## Subnational breakdown
+
+```{r}
+fig_tab_no <- 2
+```
+
+```{r,  child = here::here("utils", "national-map.Rmd")}
+```
+
+### Data availability
+
+* Case counts by date, stratified by region were downloaded from a publicly available source [@covidregionaldata; @noauthor_tabelle_2020].
+* Case onset dates were estimated using case counts by date of report and a distribution of reporting delays fitted to a publicly available line-list of cases reported internationally [@kraemer2020epidemiological; @covidregionaldata].
+
+### Limitations
+
+* Line-list data to inform a region specific estimate of the reporting delay were not available.

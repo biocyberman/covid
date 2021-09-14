@@ -10,14 +10,17 @@ require(rnaturalearth)
 require(covidregionaldata)
 
 # Countries from nowcast folders ------------------------------------------
-countries <- tibble::tibble(country = list.dirs(here::here("covid-rt-estimates/national/cases/national"), recursive = FALSE) %>%
-                              stringr::str_remove(here::here("covid-rt-estimates/national/cases/national/")))
+# countries <- tibble::tibble(country = list.dirs(here::here("covid-rt-estimates/national/cases/national"), recursive = FALSE) %>%
+#                              stringr::str_remove(here::here("covid-rt-estimates/national/cases/national/")))
+countries <- tibble::tibble(country= c("Vietnam", "Indonesia", "Cambodia",  
+               "Thailand", "India", "Nepal", "Laos", "United-Kingdom", 
+               "United-States", "Japan", "South Korea"))
 
-
-countries_with_death_estimates <-  tibble::tibble(country = list.dirs(here::here("covid-rt-estimates/national/deaths/national"), recursive = FALSE) %>%
-                                                    stringr::str_remove(here::here("covid-rt-estimates/national/deaths/national/")),
+# countries_with_death_estimates <-  tibble::tibble(country = list.dirs(here::here("covid-rt-estimates/national/deaths/national"), recursive = FALSE) %>%
+#                                                    stringr::str_remove(here::here("covid-rt-estimates/national/deaths/national/")),
+#                                                  deaths = TRUE)
+countries_with_death_estimates <-  tibble::tibble(country = countries$country,
                                                   deaths = TRUE)
-
 # Get countries regions ---------------------------------------------------
 countries_in_data <- covidregionaldata::get_national_data(source = "who") %>% 
   dplyr::select(country, region = un_region) %>% 
