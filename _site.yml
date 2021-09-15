@@ -40,5 +40,6 @@ collections:
 output:
   distill::distill_article:
     css: epiforecasts.css
+    self_contained: true
 exclude: ["Dockerfile", "DESCRIPTION", "README.md", "REAMDE.html", "_README.md",
          ".Rbuildignore", "LICENSE", "bin", "utils", "covid-rt-estimates", ".github"]

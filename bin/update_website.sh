@@ -4,7 +4,7 @@ set -x
 # Rscript utils/update_estimates.R
 
 ## Symlink estimates into this repository
-ln -s ../covid-rt-estimates covid-rt-estimates
+ln -snf ../covid-rt-estimates covid-rt-estimates
 
 ## Update national reports
 Rscript utils/update_report_templates.R
