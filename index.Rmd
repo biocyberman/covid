@@ -3,15 +3,7 @@ title: "National and Subnational estimates for Vietnam"
 description: |
   Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in Vietnam. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.
 bibliography: library.bib
-output:
-  distill::distill_article:
-    self_contained: true
-    toc: true
-    toc_depth: 2
-categories:
-  - "Subnational estimates"
-  - "Asia"
-  - "Vietnam"
+site: distill::distill_website
 ---
 
 *Using data available up to the:* `r Sys.Date()`
@@ -27,6 +19,7 @@ load(here::here("_posts/national/vietnam/vietnam_codes.rda"))
 ```
 
 ```{r load-geodata, include = FALSE}
+library(dplyr)
 geoData <- rnaturalearth::ne_states('Vietnam', returnclass = 'sf') 
 geoData <- dplyr::left_join(geoData, vietnam_codes, by = c("iso_3166_2"="level_1_region_code")) %>%
   dplyr::rename(Region = level_1_region)

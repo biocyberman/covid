@@ -1,4 +1,4 @@
-#!bin/bash
+#!/usr/bin/env bash
 
 ## Update the git repo with new results
 git checkout vietnam

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+set -x
 ## Get latest estimates
 # Rscript utils/update_estimates.R
 

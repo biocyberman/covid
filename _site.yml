@@ -15,7 +15,7 @@ navbar:
     href: https://cmmid.github.io
   search: true
   right:
-    - text: "Vietnam" 
+    - text: "Vietnam"
       href: index.html
     - text: "Global"
       href: posts/global/index.html
