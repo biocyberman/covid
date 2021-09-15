@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ## Get latest estimates
-Rscript utils/update_estimates.R
+# Rscript utils/update_estimates.R
 
 ## Symlink estimates into this repository
 ln -s ../covid-rt-estimates covid-rt-estimates
@@ -10,7 +10,7 @@ ln -s ../covid-rt-estimates covid-rt-estimates
 Rscript utils/update_report_templates.R
 
 ## Manually force a UK page update
-Rscript -e 'rmarkdown::render("_posts/national/united-kingdom/united-kingdom.Rmd")'
+# Rscript -e 'rmarkdown::render("_posts/national/united-kingdom/united-kingdom.Rmd")'
 
 ## Update all Rscript
 Rscript utils/update_posts.R

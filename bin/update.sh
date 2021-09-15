@@ -1,4 +1,4 @@
-#!bin/bash
+#!/usr/bin/env bash
 
 ## Check everything up to date
 # git pull -X theirs

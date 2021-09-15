@@ -15,35 +15,9 @@ navbar:
     href: https://cmmid.github.io
   search: true
   right:
-    - text: "About"
-      href: index.html
-    - text: "Global"
+    
+     - text: "Global"
       href: posts/global/index.html
-    - text: 'National'
-      menu:
-       - text: 'Africa'
-         href: reports.html#category:Africa
-       - text: 'Americas'
-         href: reports.html#category:Americas
-       - text: 'Oceania'
-         href: reports.html#category:Oceania
-       - text: 'Europe'
-         href: reports.html#category:Europe
-       - text: 'Asia'
-         href: reports.html#category:Asia
-    - text: "Subnational"
-      menu:
-       - text: "Countries with subnational estimates"
-       - text: "Index"
-         href: reports.html#category:Subnational_estimates
-       - text: "Vietnam"
-         href: posts/national/vietnam/index.html
-       - text: "Germany"
-         href: posts/national/germany/index.html
-       - text: "United Kingdom"
-         href: posts/national/united-kingdom/index.html
-       - text: "United States of America"
-         href: posts/national/united-states/index.html
     - text: "Details"
       menu:
        - text: "Methods"
@@ -52,6 +26,8 @@ navbar:
          href: funding.html
        - text: "News"
          href: news.html
+    - text: "About"
+      href: index.html
     - icon: fab fa-github
       href: https://github.com/biocyberman/covid
     - icon: fa fa-rss
