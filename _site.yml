@@ -15,8 +15,9 @@ navbar:
     href: https://cmmid.github.io
   search: true
   right:
-    
-     - text: "Global"
+    - text: "Vietnam" 
+      href: index.html
+    - text: "Global"
       href: posts/global/index.html
     - text: "Details"
       menu:
@@ -27,7 +28,7 @@ navbar:
        - text: "News"
          href: news.html
     - text: "About"
-      href: index.html
+      href: about.html
     - icon: fab fa-github
       href: https://github.com/biocyberman/covid
     - icon: fa fa-rss

@@ -1,5 +1,3 @@
-countries <- c("italy", "united-kingdom", "united-states", "germany",
-               "brazil", "india", "colombia",
-               "canada", "belgium")
+countries <- c("vietnam")
 
 saveRDS(countries, here::here("data", "subnational_estimates.rds"))
