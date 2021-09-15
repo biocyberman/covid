@@ -1,10 +1,12 @@
 #!/usr/bin/env bash
-set -x
 ## Get latest estimates
-# Rscript utils/update_estimates.R
+Rscript utils/update_estimates.R
 
 ## Symlink estimates into this repository
 ln -snf ../covid-rt-estimates covid-rt-estimates
+
+## Update subnational estimate for Vietnam
+bash ./covid-rt-estimates/bin/update-estimates.sh
 
 ## Update national reports
 Rscript utils/update_report_templates.R
