@@ -1,12 +1,21 @@
 #!/usr/bin/env bash
-## Get latest estimates
-Rscript utils/update_estimates.R
-
 ## Symlink estimates into this repository
 ln -snf ../covid-rt-estimates covid-rt-estimates
+OUTDIR="../covid-rt-estimates"
+
+## Manual update 
+COUNTRY=${1:Vietnam}
+DATA_SOURCE="https://epinowcovidrstorage.blob.core.windows.net/results/"
+azcopy sync $DATA_SOURCE/national/cases/summary ${OUTDIR}/national/cases/summary
+azcopy sync $DATA_SOURCE/national/deaths/summary ${OUTDIR}/national/deaths/summary
+azcopy sync $DATA_SOURCE/national/deaths/national/$COUNTRY ${OUTDIR}/national/deaths/national/$COUNTRY/
+azcopy sync $DATA_SOURCE/national/cases/national/$COUNTRY ${OUTDIR}/national/cases/national/$COUNTRY/
+
+## Get latest estimates
+# Rscript utils/update_estimates.R
 
 ## Update subnational estimate for Vietnam
-bash ./covid-rt-estimates/bin/update-estimates.sh
+cd ./covid-rt-estimates && bash bin/update-estimates.sh
 
 ## Update national reports
 Rscript utils/update_report_templates.R
