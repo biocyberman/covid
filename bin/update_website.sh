@@ -15,7 +15,9 @@ azcopy sync $DATA_SOURCE/national/cases/national/$COUNTRY ${OUTDIR}/national/cas
 # Rscript utils/update_estimates.R
 
 ## Update subnational estimate for Vietnam
-cd ./covid-rt-estimates && bash bin/update-estimates.sh
+cd ./covid-rt-estimates
+bash bin/update-estimates.sh
+cd -
 
 ## Update national reports
 Rscript utils/update_report_templates.R
