@@ -4,8 +4,8 @@ ln -snf ../covid-rt-estimates covid-rt-estimates
 OUTDIR="../covid-rt-estimates"
 
 ## Manual update 
-COUNTRY=${1:Vietnam}
-DATA_SOURCE="https://epinowcovidrstorage.blob.core.windows.net/results/"
+COUNTRY=${1:-Vietnam}
+DATA_SOURCE="https://epinowcovidrstorage.blob.core.windows.net/results"
 azcopy sync $DATA_SOURCE/national/cases/summary ${OUTDIR}/national/cases/summary
 azcopy sync $DATA_SOURCE/national/deaths/summary ${OUTDIR}/national/deaths/summary
 azcopy sync $DATA_SOURCE/national/deaths/national/$COUNTRY ${OUTDIR}/national/deaths/national/$COUNTRY/
