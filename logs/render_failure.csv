@@ -1,4 +1,5 @@
 page,error
+_posts/global/global.Rmd,"list(message = ""File '/home/vang/repositories/covid/covid-rt-estimates/national/cases/summary/summary_table.csv' does not exist or is non-readable. getwd()=='/home/vang/repositories/covid/_posts/global'"", call = data.table::fread(here::here(""covid-rt-estimates"", ""national"", ""cases"", ""summary"", ""summary_table.csv"")))"
 _posts/national/cambodia/cambodia.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
 _posts/national/india/india.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
 _posts/national/indonesia/indonesia.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
@@ -7,3 +8,4 @@ _posts/national/laos/laos.Rmd,"list(message = ""cannot open the connection"", ca
 _posts/national/nepal/nepal.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
 _posts/national/south-korea/south-korea.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
 _posts/national/thailand/thailand.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/vietnam/vietnam.Rmd,"list(message = ""File '/home/vang/repositories/covid/covid-rt-estimates/subnational/vietnam/cases/summary/summary_table.csv' does not exist or is non-readable. getwd()=='/home/vang/repositories/covid/_posts/national/vietnam'"", call = data.table::fread(here::here(""covid-rt-estimates"", ""subnational"", folder, ""cases"", ""summary"", ""summary_table.csv"")))"
