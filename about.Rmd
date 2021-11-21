@@ -11,10 +11,10 @@ Data source
 ===
 Raw data is shared and permitted to use by courtesy of [NCSC](https://covid19.ncsc.gov.vn)
 
-Customization for Calculating Subnational Level for Vietnam
+Adaptation for Vietnam's Subnational Results
 ===
 
-The submational results for Vietnam is carried out by Data Analysis team, COVID19 & Beyond Taskforce, [AVSE Global](https://avseglobal.org) with the following team members:
+The submational adaption for Vietnam is carried out by Data Analysis team, COVID19 & Beyond Taskforce, [AVSE Global](https://avseglobal.org) with the following team members:
 
 - [Man Tan Bui PhD](https://www.linkedin.com/in/man-bui-b2a77442) 
 - Tung Thanh Pham MD
