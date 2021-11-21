@@ -1,11 +1,26 @@
 ---
-title: "Temporal variation in transmission during the COVID-19 outbreak"
+title: "Temporal variation in transmission during the COVID-19 outbreak in Vietnam"
 bibliography: library.bib
 output:
   distill::distill_article:
     self_contained: true
     toc: false
 ---
+
+Data source
+===
+Raw data is shared and permitted to use by courtesy of [NCSC](https://covid19.ncsc.gov.vn)
+
+Customization for Calculating Subnational Level for Vietnam
+===
+
+The submational results for Vietnam is carried out by Data Analysis team, COVID19 & Beyond Taskforce, [AVSE Global](https://avseglobal.org) with the following team members:
+- [Vang Le-Quy PhD](https://www.linkedin.com/in/vanglequy)
+- [Man Tan Bui PhD](https://www.linkedin.com/in/man-bui-b2a77442) 
+- Tung Thanh Pham MD
+- Huong Thi Chu
+
+The calculation is based on the method and R packaged as mentioned in the following paper.
 
 
 ```{r, include = FALSE}
@@ -17,7 +32,18 @@ title <- FALSE
 
 
 
-**More information** For more detail and the limitations of these estimates please see our [methods](https://epiforecasts.io/covid/methods.html)), our [preprint](https://wellcomeopenresearch.org/articles/5-112/v1)[@rtwebsite], the [documentation of our transmission tracking R package](https://epiforecasts.io/EpiNow2/)[@epinow2] and the documentation of our [R data package](https://epiforecasts.io/covidregionaldata/) [@covidregionaldata]. Stored versions of our estimates and the code used to generate them can be found [here](https://github.com/epiforecasts/covid-rt-estimates).**
+**More information** For more detail and the limitations of these estimates
+please see our [methods](https://epiforecasts.io/covid/methods.html)), our
+[preprint](https://wellcomeopenresearch.org/articles/5-112/v1)[@rtwebsite], the
+[documentation of our transmission tracking R
+package](https://epiforecasts.io/EpiNow2/)[@epinow2] and the documentation of
+our [R data package](https://epiforecasts.io/covidregionaldata/)
+[@covidregionaldata]. Stored versions of our estimates and the code used to
+generate them can be found
+[here](https://github.com/epiforecasts/covid-rt-estimates).**
 
 
-**Note:** Our methodology remains an area of active research so please consider contacting us if interested in using, or evaluating, our approach. As an open-source project we also welcome code and methodology contributions, please see the linked code repositories for details on how to contribute.
+**Note:** Our methodology remains an area of active research so please consider
+contacting us if interested in using, or evaluating, our approach. As an
+open-source project we also welcome code and methodology contributions, please
+see the linked code repositories for details on how to contribute.
