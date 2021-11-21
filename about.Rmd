@@ -15,10 +15,11 @@ Customization for Calculating Subnational Level for Vietnam
 ===
 
 The submational results for Vietnam is carried out by Data Analysis team, COVID19 & Beyond Taskforce, [AVSE Global](https://avseglobal.org) with the following team members:
-- [Vang Le-Quy PhD](https://www.linkedin.com/in/vanglequy)
+
 - [Man Tan Bui PhD](https://www.linkedin.com/in/man-bui-b2a77442) 
 - Tung Thanh Pham MD
 - Huong Thi Chu
+- [Vang Le-Quy PhD - Team Leader](https://www.linkedin.com/in/vanglequy)
 
 The calculation is based on the method and R packaged as mentioned in the following paper.
 
