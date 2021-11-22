@@ -16,7 +16,7 @@ azcopy sync $DATA_SOURCE/national/cases/national/$COUNTRY ${OUTDIR}/national/cas
 
 ## Update subnational estimate for Vietnam
 cd ./covid-rt-estimates
-# bash bin/update-estimates.sh
+bash bin/update-estimates.sh
 cd -
 
 ## Update national reports
