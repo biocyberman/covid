@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Covid-19</title>
+    <link>https://biocyberman.github.io/covid</link>
+    <atom:link href="https://biocyberman.github.io/covid/reports.xml" rel="self" type="application/rss+xml"/>
+    <description>Temporal variation in transmission during the COVID-19 outbreak in Vietnam
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Global summary</title>
+      <link>https://biocyberman.github.io/covid/posts/global</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Global summary</category>
+      <guid>https://biocyberman.github.io/covid/posts/global</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/global/distill-preview.png" medium="image" type="image/png" width="10800" height="3600"/>
+    </item>
+    <item>
+      <title>National and Subnational estimates for Vietnam</title>
+      <link>https://biocyberman.github.io/covid/posts/national/vietnam</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting both nationally and subnationally in Vietnam. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Subnational estimates</category>
+      <category>Asia</category>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/national/vietnam</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/national/vietnam/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Angiang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/angiang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Angiang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/angiang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/angiang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Bacgiang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/bacgiang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Bacgiang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/bacgiang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/bacgiang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Backan (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/backan</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Backan. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/backan</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/backan/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Baclieu (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/baclieu</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Baclieu. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/baclieu</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/baclieu/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Bacninh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/bacninh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Bacninh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/bacninh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/bacninh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Bariavungtau (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/bariavungtau</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Bariavungtau. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/bariavungtau</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/bariavungtau/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Bentre (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/bentre</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Bentre. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/bentre</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/bentre/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Binhdinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhdinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Binhdinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhdinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/binhdinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Binhduong (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhduong</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Binhduong. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhduong</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/binhduong/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Binhphuoc (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhphuoc</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Binhphuoc. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhphuoc</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/binhphuoc/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Binhthuan (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhthuan</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Binhthuan. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/binhthuan</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/binhthuan/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Camau (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/camau</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Camau. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/camau</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/camau/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Cantho (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/cantho</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Cantho. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/cantho</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/cantho/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Caobang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/caobang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Caobang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/caobang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/caobang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Daklak (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/daklak</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Daklak. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/daklak</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/daklak/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Daknong (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/daknong</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Daknong. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/daknong</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/daknong/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Danang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/danang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Danang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/danang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/danang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Dienbien (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/dienbien</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Dienbien. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/dienbien</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/dienbien/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Dongnai (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/dongnai</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Dongnai. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/dongnai</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/dongnai/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Dongthap (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/dongthap</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Dongthap. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/dongthap</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/dongthap/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Gialai (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/gialai</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Gialai. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/gialai</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/gialai/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hagiang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hagiang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hagiang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hagiang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hagiang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Haiduong (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/haiduong</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Haiduong. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/haiduong</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/haiduong/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Haiphong (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/haiphong</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Haiphong. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/haiphong</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/haiphong/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hanam (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hanam</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hanam. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hanam</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hanam/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hanoi (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hanoi</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hanoi. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hanoi</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hanoi/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hatinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hatinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hatinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hatinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hatinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Haugiang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/haugiang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Haugiang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/haugiang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/haugiang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hoabinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hoabinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hoabinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hoabinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hoabinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hochiminh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hochiminh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hochiminh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hochiminh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hochiminh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hue (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hue</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hue. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hue</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hue/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Hungyen (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/hungyen</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Hungyen. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/hungyen</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/hungyen/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Khanhhoa (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/khanhhoa</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Khanhhoa. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/khanhhoa</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/khanhhoa/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Kiengiang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/kiengiang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Kiengiang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/kiengiang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/kiengiang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Kontum (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/kontum</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Kontum. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/kontum</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/kontum/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Laichau (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/laichau</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Laichau. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/laichau</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/laichau/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Lamdong (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/lamdong</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Lamdong. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/lamdong</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/lamdong/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Langson (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/langson</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Langson. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/langson</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/langson/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Laocai (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/laocai</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Laocai. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/laocai</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/laocai/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Longan (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/longan</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Longan. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/longan</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/longan/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Namdinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/namdinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Namdinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/namdinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/namdinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Nghean (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/nghean</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Nghean. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/nghean</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/nghean/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Ninhbinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/ninhbinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Ninhbinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/ninhbinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/ninhbinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Ninhthuan (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/ninhthuan</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Ninhthuan. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/ninhthuan</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/ninhthuan/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Phutho (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/phutho</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Phutho. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/phutho</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/phutho/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Phuyen (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/phuyen</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Phuyen. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/phuyen</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/phuyen/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Quangbinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangbinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Quangbinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangbinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/quangbinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Quangnam (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangnam</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Quangnam. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangnam</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/quangnam/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Quangngai (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangngai</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Quangngai. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangngai</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/quangngai/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Quangninh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangninh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Quangninh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangninh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/quangninh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Quangtri (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangtri</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Quangtri. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/quangtri</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/quangtri/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Soctrang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/soctrang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Soctrang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/soctrang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/soctrang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Sonla (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/sonla</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Sonla. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/sonla</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/sonla/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Tayninh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/tayninh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Tayninh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/tayninh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/tayninh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Thaibinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/thaibinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Thaibinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/thaibinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/thaibinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Thainguyen (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/thainguyen</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Thainguyen. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/thainguyen</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/thainguyen/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Thanhhoa (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/thanhhoa</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Thanhhoa. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/thanhhoa</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/thanhhoa/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Thuathienhue (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/thuathienhue</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Thuathienhue. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/thuathienhue</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/thuathienhue/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Tiengiang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/tiengiang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Tiengiang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/tiengiang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/tiengiang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Travinh (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/travinh</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Travinh. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/travinh</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/travinh/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Tuyenquang (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/tuyenquang</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Tuyenquang. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/tuyenquang</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/tuyenquang/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Vinhlong (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/vinhlong</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Vinhlong. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/vinhlong</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/vinhlong/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Vinhphuc (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/vinhphuc</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Vinhphuc. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/vinhphuc</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/vinhphuc/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+    <item>
+      <title>Estimates for Yenbai (Vietnam)</title>
+      <link>https://biocyberman.github.io/covid/posts/subnational/vietnam/yenbai</link>
+      <description>Identifying changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak whilst accounting for potential biases due to delays in case reporting in Yenbai. These results are impacted by changes in testing effort, increases and decreases in testing effort will increase and decrease reproduction number estimates respectively.</description>
+      <category>Vietnam</category>
+      <guid>https://biocyberman.github.io/covid/posts/subnational/vietnam/yenbai</guid>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://biocyberman.github.io/covid/posts/subnational/vietnam/yenbai/distill-preview.png" medium="image" type="image/png" width="3840" height="3840"/>
+    </item>
+  </channel>
+</rss>

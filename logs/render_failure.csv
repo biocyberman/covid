@@ -1,0 +1,9 @@
+page,error
+_posts/national/cambodia/cambodia.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/india/india.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/indonesia/indonesia.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/japan/japan.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/laos/laos.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/nepal/nepal.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/south-korea/south-korea.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
+_posts/national/thailand/thailand.Rmd,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
